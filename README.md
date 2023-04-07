@@ -1,1 +1,2 @@
 # Customer-Segmentation-using-K-Means-Clustering
+Conducted market segmentation analysis on transactional data from a national convenience store chain, identifying two most attractive customer segments. Cleaned and processed data, engineered features such as RFM and visit frequency/spend, and merged data into a single dataframe. Clustered data into 5 clusters using K-means and validated cluster differences using T-test.
